@@ -19,7 +19,7 @@ The site includes:
 
 ## 📸 Screenshot
 
-![Website Screenshot](./screenshot.png)
+![Website Screenshot](personal-website.png)
 
 ## 🔗 Live Demo
 
